@@ -1,5 +1,5 @@
 Newsletter Export Script für OS-Commerce
-========================================    
+========================================
     Digineo GmbH 2009 | www.digineo.de
     Author: Tim Kretschmer
     Version 1.0
