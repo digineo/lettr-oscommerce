@@ -18,3 +18,6 @@ Entscheiden Sie sich, ob Sie nur die Kunden exportieren wollen, die sich für de
 angemeldet haben ($all = false;), oder ob Sie alle Kunden exportieren wollen ($all = true;).
 
 Der Aufruf des Exportes erfolgt  über http://USER:PASSWORT@ihr-shop.de/newsletter_export/export.php 	 
+
+Beachten Sie bitte, dass die zu exportierenden E-Mailadressen als <approved = 1> in unser System übertragen werden.
+Sie müssen daher berechtigt sein, an die Empfänger E-Mails zu versenden.
